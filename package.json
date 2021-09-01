@@ -1,0 +1,17 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "list": "ls",
+    "title": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-title-case": "^1.0.0"
+  },
+  "description": ""
+}
